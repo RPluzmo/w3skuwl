@@ -1,2 +1,4 @@
-
-body{background:cyan};
+body {background: lightgray;}
+header, ul {display: flex; gap:20px}
+  
+  

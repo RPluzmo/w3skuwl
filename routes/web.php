@@ -17,3 +17,19 @@ Route::get('/CSS', function () {
 Route::get('/JAVASCRIPT', function () {
     return view('JAVASCRIPT');
 });
+
+Route::get('/SQL', function () {
+    return view('SQL');
+});
+
+Route::get('/PYTHON', function () {
+    return view('PYTHON');
+});
+
+Route::get('/JAVA', function () {
+    return view('JAVA');
+});
+
+Route::get('/PHP', function () {
+    return view('PHP');
+});

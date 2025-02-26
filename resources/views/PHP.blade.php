@@ -10,7 +10,6 @@
     <ul>
         <li><a href="/w3skuwl">mainc</a></li>
     </ul>
-    <h1>CSS</h1>
-
+    <h1>PHP</h1>
 </body>
 </html>
