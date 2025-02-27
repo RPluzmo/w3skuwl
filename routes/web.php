@@ -2,7 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 
-Route::get('/w3skuwl', function () {
+Route::get('/', function () {
     return view('w3skuwl');
 });
 

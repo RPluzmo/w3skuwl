@@ -8,7 +8,7 @@
 </head>
 <body>
     <ul>
-        <li><a href="/w3skuwl">mainc</a></li>
+        <li><a href="/">mainc</a></li>
     </ul>
     <h1>PYTHON</h1>
 </body>

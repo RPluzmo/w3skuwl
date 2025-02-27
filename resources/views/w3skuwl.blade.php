@@ -8,7 +8,7 @@
 </head>
 <body>
     <ul>
-        <li><a href="/w3skuwl">mainc</a></li>
+        <li><a href="/">mainc</a></li>
         <li><a href="/HTML">HTML</a></li>
         <li><a href="/CSS">CSS</a></li>
         <li><a href="/JAVASCRIPT">JAVASCRIPT</a></li>
