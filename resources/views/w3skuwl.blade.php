@@ -17,6 +17,6 @@
         <li><a href="/JAVA">JAVA</a></li>
         <li><a href="/PHP">PHP</a></li>
     </ul>
-    <h1>DE REAL W3SKUWL</h1>
+    <h1>REAL W3SKUWL</h1>
 </body>
 </html>
